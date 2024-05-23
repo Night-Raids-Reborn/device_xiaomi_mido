@@ -13,6 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="maintainer_name"> Ikeh | Kimochi </string>
+    <string name="maintainer_name">Darknius</string>
+    <string name="rr_maintainer_summary">Darknius</string>
 
 </resources>
