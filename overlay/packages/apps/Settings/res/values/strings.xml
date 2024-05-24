@@ -12,8 +12,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
+    <string name="xd_device_name_summary">mido</string> 
+    <string name="xd_chipset_type_summary">Qualcomm Snapdragon™ 625</string> 
+    <string name="xd_gpu_summary">Adreno™ 506</string> 
+    <string name="xd_camera_mp_summary">13 MP, f/2.0, 1/3.1"</string> 
+    <string name="xd_screen_type_summary">IPS LCD 5.5" Screen</string> 
+    <string name="xd_maintainer">Darknius</string>
     <string name="maintainer_name">Darknius</string>
     <string name="rr_maintainer_summary">Darknius</string>
-
 </resources>
